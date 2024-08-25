@@ -1,0 +1,41 @@
+body {
+  margin: 0px;
+  font-family: "Lato", sans-serif;
+}
+.header {
+  background: rgba(229, 84, 115, 0.1);
+  display: flex;
+  gap: 97px;
+  justify-content: space-between;
+  padding: 0px 240px;
+}
+.header-content {
+  padding-top: 197px;
+}
+.header-title {
+  color: rgb(39, 39, 39);
+  font-size: 80px;
+  font-weight: 800;
+  margin-bottom: 32px;
+}
+.header-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 0px;
+  margin-bottom: 32px;
+}
+.header-btn {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: 700;
+  padding: 20px 43px;
+  border: none;
+  border-radius: 8px;
+  background: rgb(229, 84, 115);
+}
+.header-img {
+  width: 400px;
+  height: 800px;
+  padding-top: 50px;
+}
