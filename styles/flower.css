@@ -93,4 +93,22 @@ main {
   text-align: center;
   text-decoration-line: underline;
   margin-top: 32px;
+  margin-bottom: 128px;
+}
+.icon-content {
+  display: flex;
+  /* gap: 100px; */
+  justify-content: space-between;
+  background: #2727270d;
+  padding: 87px 175px;
+  margin-bottom: 128px;
+}
+.icon-img {
+    padding: 2px 142px 0px 142px;
+}
+.icon-title {
+  color: rgba(39, 39, 39, 0.8);
+  font-size: 24px;
+  font-weight: 600;
+  text-align: center;
 }
