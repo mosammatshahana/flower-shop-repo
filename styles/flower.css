@@ -125,8 +125,8 @@ main {
   background: rgba(229, 84, 115, 0.05);
   margin-bottom: 128px;
 }
-.deal-content{
-  padding:230px 0px 162px 250px;
+.deal-content {
+  padding: 230px 0px 162px 250px;
 }
 .deal-title {
   color: #272727;
@@ -148,7 +148,97 @@ main {
 .deal-img {
   padding: 100px 200px 100px 0px;
 }
-.insta{
+.insta {
   margin-top: 0px;
   margin-bottom: 128px;
+}
+/* .insta-content{
+  padding-left:664px ;
+} */
+.insta-title {
+  color: rgb(39, 39, 39);
+  font-size: 40px;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 24px;
+}
+.insta-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 48px;
+}
+.insta-img {
+  display: flex;
+  gap: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.latest-deal {
+  border-radius: 8px;
+  background: url("../images/Rectangle\ 9.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 122px 287px 121px 287px;
+  margin-left: 50px;
+  margin-bottom: 128px;
+}
+.ldeal-title {
+  color: rgb(39, 39, 39);
+  font-size: 40px;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 16px;
+}
+.ldeal-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 48px;
+}
+.ldeal-input {
+  display: flex;
+  gap: 10px;
+}
+#ldeal-email {
+  border-radius: 8px;
+  border: none;
+  background: rgb(255, 255, 255);
+  padding: 22px 513px 22px 22px;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+}
+footer {
+  margin-top: 0px;
+  background: rgb(17, 16, 16);
+}
+
+.footer-title {
+  color: white;
+  font-size: 48px;
+  font-weight: 800;
+  text-align: center;
+  padding-top: 128px;
+}
+.footer-description {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+.footer-copywrite {
+  color: #ffffff66;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 128px;
+  margin-top: 0px;
 }
